@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512149688106",
+    "project_id": "phone-authentication-618ef",
+    "storage_bucket": "phone-authentication-618ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512149688106:android:9877f6be40579475a15853",
+        "android_client_info": {
+          "package_name": "com.example.haircut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvmcDg9m_H5jYGnmnqf4YsZedz4huBCbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
