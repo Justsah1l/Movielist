@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCvmcDg9m_H5jYGnmnqf4YsZedz4huBCbU',
-    appId: '1:512149688106:android:9877f6be40579475a15853',
-    messagingSenderId: '512149688106',
-    projectId: 'phone-authentication-618ef',
-    storageBucket: 'phone-authentication-618ef.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBL74rRAJogTp3nONibGx85ibTiFU3GA5M',
-    appId: '1:512149688106:ios:2865cbdf53485fb1a15853',
-    messagingSenderId: '512149688106',
-    projectId: 'phone-authentication-618ef',
-    storageBucket: 'phone-authentication-618ef.appspot.com',
-    iosBundleId: 'com.example.haircut',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 }
