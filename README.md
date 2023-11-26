@@ -1,3 +1,4 @@
+# This was more like an assignment for me to make under 4 hours. 
 # UI 
 # Splash screen
 <img src="https://github.com/Justsah1l/Movielist/blob/main/assets/1.jpeg" width="300" height="650">
